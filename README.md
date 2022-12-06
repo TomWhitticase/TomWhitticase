@@ -1,6 +1,6 @@
 ### <div align="center">Hi 👋 I'm Tom!</div>
 
-a computer science student with a passion for web development 👨‍💻 Seeking a placement year starting summer 2023 🚀
+a computer science student with a passion for web development 👨‍💻<br/> Seeking a placement year starting summer 2023 🚀
 
 <br/>
 
