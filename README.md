@@ -1,8 +1,20 @@
-### <div align="center">Hi 👋 I'm Tom!</div>
+<h1 align="center">Hi 👋, I'm Tom Whitticase</h1>
+<h3 align="center">Junior full stack web developer seeking placement year starting summer 2023</h3>
+<h3 align="center">2nd Year Computer Science Student at Loughborough University</h3>
+<h3 align="center">First year grade - 85% (1st)</h3>
 
-a computer science student with a passion for web development 👨‍💻<br/> Seeking a placement year starting summer 2023 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomwhitticase&label=Profile%20views&color=0e75b6&style=flat" alt="tomwhitticase" /> </p>
 
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomwhitticase" alt="tomwhitticase" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [www.tomwhitticase.com](www.tomwhitticase.com)
+
+- 📫 How to reach me **tom.pe.wh@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tom-whitticase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-whitticase" height="30" width="40" /></a>
+</p>
 
 ## My Skill Set
 
@@ -75,20 +87,12 @@ a computer science student with a passion for web development 👨‍💻<br/> S
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TomWhitticase&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
 <br/>
-
-<br/>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=TomWhitticase&&style=flat-square" align="center" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=TomWhitticase&show_icons=true&count_private=true&hide_border=true"/>
 </div>
-
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomwhitticase&show_icons=true&locale=en&layout=compact" alt="tomwhitticase" />
+</div>
 <br/>
-
-<br />
-
----
+<img src="https://komarev.com/ghpvc/?username=TomWhitticase&&style=flat-square"/>
