@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomwhitticase" alt="tomwhitticase" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.tomwhitticase.com](www.tomwhitticase.com)
+- 👨‍💻 All of my projects are available at [www.tomwhitticase.com](https://www.tomwhitticase.com)
 
 - 📫 How to reach me **tom.pe.wh@gmail.com**
 
