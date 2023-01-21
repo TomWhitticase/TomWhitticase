@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom Whitticase</h1>
-<h3 align="center">Junior full stack web developer seeking placement year starting summer 2023</h3>
-<h3 align="center">2nd Year Computer Science Student at Loughborough University</h3>
+<h3 align="center">I am a 2nd Year Computer Science Student at Loughborough University interested in full-stack web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomwhitticase&label=Profile%20views&color=0e75b6&style=flat" alt="tomwhitticase" /> </p>
 
