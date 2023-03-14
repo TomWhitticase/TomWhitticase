@@ -45,12 +45,12 @@ I am a 2nd Year Computer Science Student at Loughborough University with a passi
 
 <br/>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=TomWhitticase&show_icons=true&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TomWhitticase&show_icons=true&count_private=true&hide_border=true" />
 </div>
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomwhitticase&show_icons=true&locale=en&layout=compact" alt="tomwhitticase" />
 </div>
 <br/>
 <div>
-<img src="https://komarev.com/ghpvc/?username=TomWhitticase&&style=flat-square" alt="tomwhitticase"/>
-    </div>
+<img src="https://komarev.com/ghpvc/?username=TomWhitticase&&style=flat-square" alt="tomwhitticase" />
+</div>
