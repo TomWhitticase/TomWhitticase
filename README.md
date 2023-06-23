@@ -1,5 +1,5 @@
 # Hi 👋, I'm Tom
-I am a 2nd Year Computer Science Student at Loughborough University with a passion for full-stack web development
+I am a full-stack web developer.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomwhitticase" alt="tomwhitticase" /></a> </p>
 
