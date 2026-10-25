@@ -1,12 +1,26 @@
-# Hi 👋, I'm Tom
+# Tom Whitticase
 
-I am a Software engineer.
+My personal GitHub — side projects, experiments, and things I build outside of work.
 
-## Connect with me
+[LinkedIn](https://linkedin.com/in/tom-whitticase) · [GitHub](https://github.com/TomWhitticase)
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tom-whitticase)
+---
 
+## Activity
 
-## Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomWhitticase&show_icons=true&hide_border=true&bg_color=00000000&title_color=64748b&icon_color=0f766e&text_color=64748b&include_all_commits=true" alt="GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomWhitticase&layout=compact&hide_border=true&bg_color=00000000&title_color=64748b&text_color=64748b" alt="Most used languages" height="170" />
+</p>
 
-[![TomWhitticase's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomWhitticase&show_icons=true)](https://github.com/TomWhitticase)
+---
+
+## Contribution map
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomWhitticase/TomWhitticase/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomWhitticase/TomWhitticase/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/TomWhitticase/TomWhitticase/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
