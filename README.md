@@ -9,7 +9,7 @@ My personal GitHub — side projects, experiments, and things I build outside of
 ## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TomWhitticase/TomWhitticase/main/github-metrics.svg" alt="GitHub metrics dashboard" width="100%" />
+  <img src="https://raw.githubusercontent.com/TomWhitticase/TomWhitticase/master/github-metrics.svg" alt="GitHub metrics dashboard" width="100%" />
 </p>
 
 ---
